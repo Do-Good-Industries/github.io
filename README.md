@@ -105,7 +105,9 @@
       <!-- Post-It Note with Riddle -->
       <div class="postit">
         🔐 *Riddle me this...*<br><br>
-        I speak without a mouth and hear without ears.<br>
+        A spark in the dark, I guide through the night,
+Born in the heart, I make futures bright.
+Not seen, but felt, in despair I cope.<br>
         I have nobody, but I come alive with wind.<br><br>
         <strong>What am I?</strong>
       </div>
