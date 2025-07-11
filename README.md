@@ -121,7 +121,7 @@ Not seen, but felt, in despair I cope.<br>
   </div>
 
   <script>
-    const correctPassword = "secret123"; // You can change this
+    const correctPassword = "Hope"; // You can change this
 
     function checkPassword() {
       const input = document.getElementById("pw").value;
