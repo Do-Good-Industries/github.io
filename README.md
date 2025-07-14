@@ -115,7 +115,7 @@ Not seen, but felt, in despair I cope.<br>
       <div class="email" id="email">
         <h3>Draft: RE: The Drop</h3>
         <p>Meet me at the location at 21:00 hrs in Part 2. Bring the device.</p>
-        <p>Flag: <strong>RmxhZ3tUMHQ0bF8kdXJ2MzFsbDRuYzN9</strong></p>49
+        <p>Flag: <strong>{RmxhZ3tUMHQ0bF8kdXJ2MzFsbDRuYzN9}</strong></p>49
       </div>
     </div>
   </div>
